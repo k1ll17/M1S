@@ -105,38 +105,20 @@ bash
   <img src="https://github-readme-streak-stats.herokuapp.com?user=k1ll17&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ll17&layout=compact&theme=vision-friendly-dark"/>
-</p>
+
 
 ---
 
-## 🐍 ACTIVITY SNAKE
 
-<p align="center">
-  <img src="https://github.com/denilsonsa/denilsonsa/raw/master/assets/github-snake.svg" width="600"/>
-</p>
-
----
-
-## 🏆 TROPHIES
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k1ll17&theme=matrix&no-frame=true&row=1"/>
-</p>
-
----
 
 ## 📫 CONTACTS
 
 <p align="center">
   <a href="https://t.me/milamuze" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF00">
-  </a>
+  <br>
   <a href="https://www.instagram.com/milamuze_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00">
   </a>
 </p>
-`
+
